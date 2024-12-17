@@ -122,3 +122,4 @@ C:\Code BTL\KTPM_Nhom8\Nhom8\Nhom8\obj\Debug\Nhom8.csproj.CoreCompileInputs.cach
 C:\Code BTL\KTPM_Nhom8\Nhom8\Nhom8\obj\Debug\Nhom8.csproj.CopyComplete
 C:\Code BTL\KTPM_Nhom8\Nhom8\Nhom8\obj\Debug\Nhom8.dll
 C:\Code BTL\KTPM_Nhom8\Nhom8\Nhom8\obj\Debug\Nhom8.pdb
+C:\Code BTL\KTPM_Nhom8\Nhom8\Nhom8\obj\Debug\Nhom8.csproj.AssemblyReference.cache
