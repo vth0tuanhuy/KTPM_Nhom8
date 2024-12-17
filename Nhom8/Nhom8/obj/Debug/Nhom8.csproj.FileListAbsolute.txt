@@ -118,7 +118,6 @@ C:\Code BTL\KTPM_Nhom8\Nhom8\Nhom8\bin\Debug\Microsoft.VisualStudio.TestPlatform
 C:\Code BTL\KTPM_Nhom8\Nhom8\Nhom8\bin\Debug\Newtonsoft.Json.xml
 C:\Code BTL\KTPM_Nhom8\Nhom8\Nhom8\bin\Debug\nunit.framework.xml
 C:\Code BTL\KTPM_Nhom8\Nhom8\Nhom8\bin\Debug\WebDriver.xml
-C:\Code BTL\KTPM_Nhom8\Nhom8\Nhom8\obj\Debug\Nhom8.csproj.AssemblyReference.cache
 C:\Code BTL\KTPM_Nhom8\Nhom8\Nhom8\obj\Debug\Nhom8.csproj.CoreCompileInputs.cache
 C:\Code BTL\KTPM_Nhom8\Nhom8\Nhom8\obj\Debug\Nhom8.csproj.CopyComplete
 C:\Code BTL\KTPM_Nhom8\Nhom8\Nhom8\obj\Debug\Nhom8.dll
