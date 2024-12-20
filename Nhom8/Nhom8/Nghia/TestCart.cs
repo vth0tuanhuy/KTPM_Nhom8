@@ -42,7 +42,7 @@ namespace Nhom8.Nghia
         }
 
         [Test]
-        public void Test_Add_Product_And_Validate_Cart()
+        public void TC01_Add_Product()
         {
             driver.Navigate().GoToUrl(productUrl);
 
@@ -65,7 +65,7 @@ namespace Nhom8.Nghia
        
 
         [Test]
-        public void Test_Increase_Product_Quantity()
+        public void TC02_Increase_Quantity()
         {
             driver.Navigate().GoToUrl(productUrl);
 
@@ -94,7 +94,7 @@ namespace Nhom8.Nghia
         }
 
         [Test]
-        public void Test_Decrease_Product_Quantity()
+        public void TC03_Decrease_Quantity()
         {
             driver.Navigate().GoToUrl(productUrl);
 
@@ -125,7 +125,7 @@ namespace Nhom8.Nghia
             Assert.AreEqual("995.000 ₫", totalPrice, "Tổng giá không đúng sau khi giảm số lượng sản phẩm!");
         }
         [Test]
-        public void Test_Empty_Cart_Message()
+        public void TC04_Empty_Cart_Message()
         {
             driver.Navigate().GoToUrl(cartUrl);
 
@@ -143,7 +143,7 @@ namespace Nhom8.Nghia
             }
         }
         [Test]
-        public void Test_Remove_Product_From_Cart()
+        public void TC05_Remove_Product_From_Cart()
         {
             driver.Navigate().GoToUrl(productUrl);
 
