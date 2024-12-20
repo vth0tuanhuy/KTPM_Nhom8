@@ -23,7 +23,7 @@ namespace Nhom8.Huy
             driver.Manage().Window.Maximize();
         }
         [Test]
-        public void testDanhMuc_01()
+        public void TC11_testDanhMuc()
         {
             //Vào trang yoyo1sneaker.com
             driver.Navigate().GoToUrl(Url);
@@ -42,7 +42,7 @@ namespace Nhom8.Huy
             driver.Quit();
         }
         [Test]
-        public void testDanhMuc_02()
+        public void TC12_testDanhMuc()
         {
             driver.Navigate().GoToUrl(Url);
             Actions actions = new Actions(driver);
@@ -62,7 +62,7 @@ namespace Nhom8.Huy
             driver.Quit();
         }
         [Test]
-        public void testDanhMuc_03()
+        public void TC13_testDanhMuc()
         {
             driver.Navigate().GoToUrl(Url);
             Actions actions = new Actions(driver);
@@ -79,7 +79,7 @@ namespace Nhom8.Huy
             driver.Quit();
         }
         [Test]
-        public void testDanhMuc_04()
+        public void TC14_testDanhMuc()
         {
             //Vào trang yoyo1sneaker.com
             driver.Navigate().GoToUrl(Url);
@@ -100,7 +100,7 @@ namespace Nhom8.Huy
             driver.Quit();
         }
         [Test]
-        public void testDanhMuc_05()
+        public void TC15_testDanhMuc()
         {
             //Vào trang yoyo1sneaker.com
             driver.Navigate().GoToUrl(Url);
