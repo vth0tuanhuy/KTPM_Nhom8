@@ -68,6 +68,7 @@
     <Compile Include="Huy\TestDanhMucSanPham.cs" />
     <Compile Include="Nghia\TestCart.cs" />
     <Compile Include="The\TestLienHe.cs" />
+    <Compile Include="Tuan\TestXemChiTietSanPham.cs" />
     <Compile Include="UnitTest1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
