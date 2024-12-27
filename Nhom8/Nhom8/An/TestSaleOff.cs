@@ -57,7 +57,7 @@ namespace Nhom8.An
             nike_air.Click();
             Thread.Sleep(2000);
             var dmCheck = driver.FindElement(By.XPath("//*[@id=\"main\"]/div/div[2]/div/div[2]/ul/li[2]/ul/li[2]/a/span")).Text;
-            Microsoft.VisualStudio.TestTools.UnitTesting.Assert.AreEqual("Jordan High Dior", dmCheck, "Lỗi tìm danh mục sai!!!");
+            Microsoft.VisualStudio.TestTools.UnitTesting.Assert.AreEqual("Nike Air Force 1", dmCheck, "Lỗi tìm danh mục sai!!!");
             Thread.Sleep(5000);
             driver.Quit();
         }
