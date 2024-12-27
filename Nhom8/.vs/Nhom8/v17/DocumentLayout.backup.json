@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\DELL\\OneDrive\\Hi\u0300nh a\u0309nh\\Ta\u0300i li\u00EA\u0323u\\GitHub\\KTPM_Nhom8\\Nhom8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1A501527-E49A-40D2-959B-7E026BCEA1F4}|Nhom8\\Nhom8.csproj|c:\\users\\dell\\onedrive\\hi\u0300nh a\u0309nh\\ta\u0300i li\u00EA\u0323u\\github\\ktpm_nhom8\\nhom8\\nhom8\\huy\\testdanhmucsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A501527-E49A-40D2-959B-7E026BCEA1F4}|Nhom8\\Nhom8.csproj|solutionrelative:nhom8\\huy\\testdanhmucsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1A501527-E49A-40D2-959B-7E026BCEA1F4}|Nhom8\\Nhom8.csproj|C:\\Users\\DELL\\OneDrive\\Hi\u0300nh a\u0309nh\\Ta\u0300i li\u00EA\u0323u\\GitHub\\KTPM_Nhom8\\Nhom8\\nhom8\\the\\testlienhe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A501527-E49A-40D2-959B-7E026BCEA1F4}|Nhom8\\Nhom8.csproj|solutionrelative:nhom8\\the\\testlienhe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A501527-E49A-40D2-959B-7E026BCEA1F4}|Nhom8\\Nhom8.csproj|c:\\users\\dell\\onedrive\\hi\u0300nh a\u0309nh\\ta\u0300i li\u00EA\u0323u\\github\\ktpm_nhom8\\nhom8\\nhom8\\the\\testlienhe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A501527-E49A-40D2-959B-7E026BCEA1F4}|Nhom8\\Nhom8.csproj|solutionrelative:nhom8\\the\\testlienhe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1A501527-E49A-40D2-959B-7E026BCEA1F4}|Nhom8\\Nhom8.csproj|c:\\users\\dell\\onedrive\\hi\u0300nh a\u0309nh\\ta\u0300i li\u00EA\u0323u\\github\\ktpm_nhom8\\nhom8\\nhom8\\an\\testsaleoff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A501527-E49A-40D2-959B-7E026BCEA1F4}|Nhom8\\Nhom8.csproj|solutionrelative:nhom8\\an\\testsaleoff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A501527-E49A-40D2-959B-7E026BCEA1F4}|Nhom8\\Nhom8.csproj|c:\\users\\dell\\onedrive\\hi\u0300nh a\u0309nh\\ta\u0300i li\u00EA\u0323u\\github\\ktpm_nhom8\\nhom8\\nhom8\\tuan\\testxemchitietsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A501527-E49A-40D2-959B-7E026BCEA1F4}|Nhom8\\Nhom8.csproj|solutionrelative:nhom8\\tuan\\testxemchitietsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A501527-E49A-40D2-959B-7E026BCEA1F4}|Nhom8\\Nhom8.csproj|C:\\Users\\DELL\\OneDrive\\Hi\u0300nh a\u0309nh\\Ta\u0300i li\u00EA\u0323u\\GitHub\\KTPM_Nhom8\\Nhom8\\nhom8\\huy\\testdanhmucsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A501527-E49A-40D2-959B-7E026BCEA1F4}|Nhom8\\Nhom8.csproj|solutionrelative:nhom8\\huy\\testdanhmucsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,19 +26,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TestDanhMucSanPham.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Hi\u0300nh a\u0309nh\\Ta\u0300i li\u00EA\u0323u\\GitHub\\KTPM_Nhom8\\Nhom8\\Nhom8\\Huy\\TestDanhMucSanPham.cs",
-              "RelativeDocumentMoniker": "Nhom8\\Huy\\TestDanhMucSanPham.cs",
-              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Hi\u0300nh a\u0309nh\\Ta\u0300i li\u00EA\u0323u\\GitHub\\KTPM_Nhom8\\Nhom8\\Nhom8\\Huy\\TestDanhMucSanPham.cs",
-              "RelativeToolTip": "Nhom8\\Huy\\TestDanhMucSanPham.cs",
-              "ViewState": "AgIAAHAAAAAAAAAAAAAwwGYAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "TestSaleOff.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Hi\u0300nh a\u0309nh\\Ta\u0300i li\u00EA\u0323u\\GitHub\\KTPM_Nhom8\\Nhom8\\Nhom8\\An\\TestSaleOff.cs",
+              "RelativeDocumentMoniker": "Nhom8\\An\\TestSaleOff.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Hi\u0300nh a\u0309nh\\Ta\u0300i li\u00EA\u0323u\\GitHub\\KTPM_Nhom8\\Nhom8\\Nhom8\\An\\TestSaleOff.cs",
+              "RelativeToolTip": "Nhom8\\An\\TestSaleOff.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwEAAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T14:22:40.682Z",
+              "WhenOpened": "2024-12-27T16:12:33.836Z",
               "EditorCaption": ""
             },
             {
@@ -47,7 +55,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "TestXemChiTietSanPham.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Hi\u0300nh a\u0309nh\\Ta\u0300i li\u00EA\u0323u\\GitHub\\KTPM_Nhom8\\Nhom8\\Nhom8\\Tuan\\TestXemChiTietSanPham.cs",
+              "RelativeDocumentMoniker": "Nhom8\\Tuan\\TestXemChiTietSanPham.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Hi\u0300nh a\u0309nh\\Ta\u0300i li\u00EA\u0323u\\GitHub\\KTPM_Nhom8\\Nhom8\\Nhom8\\Tuan\\TestXemChiTietSanPham.cs",
+              "RelativeToolTip": "Nhom8\\Tuan\\TestXemChiTietSanPham.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAowKcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T09:15:04.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestDanhMucSanPham.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Hi\u0300nh a\u0309nh\\Ta\u0300i li\u00EA\u0323u\\GitHub\\KTPM_Nhom8\\Nhom8\\Nhom8\\Huy\\TestDanhMucSanPham.cs",
+              "RelativeDocumentMoniker": "Nhom8\\Huy\\TestDanhMucSanPham.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Hi\u0300nh a\u0309nh\\Ta\u0300i li\u00EA\u0323u\\GitHub\\KTPM_Nhom8\\Nhom8\\Nhom8\\Huy\\TestDanhMucSanPham.cs",
+              "RelativeToolTip": "Nhom8\\Huy\\TestDanhMucSanPham.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:22:40.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "TestLienHe.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Hi\u0300nh a\u0309nh\\Ta\u0300i li\u00EA\u0323u\\GitHub\\KTPM_Nhom8\\Nhom8\\Nhom8\\The\\TestLienHe.cs",
               "RelativeDocumentMoniker": "Nhom8\\The\\TestLienHe.cs",
